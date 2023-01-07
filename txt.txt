@@ -1,7 +1,0 @@
-;dkn;openv;dsn 
-ds'look_for_new_line
-;ksdc 
-sd;j nf
- dfl
- dskmv 
- dvs
